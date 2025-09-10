@@ -415,7 +415,7 @@
 			keywords: [
 				'about app',
 				'about me',
-				'about open webui',
+				'about Tomo Chat',
 				'about page',
 				'about us',
 				'aboutapp',
